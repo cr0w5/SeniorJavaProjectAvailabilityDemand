@@ -6,9 +6,6 @@ import java.util.List;
 
 public class Customer implements ISubscriber {
 
-	//private List<Room> cusRooms;
-	//private Room[] room;
-
 	private Room room;
 	
 	private String customerName;
