@@ -6,16 +6,6 @@ import java.util.Date;
 import java.util.List;
 
 public class AvailabilityDemand {
-
-	//private String command;
-	//private List<BnBProvider> providers = new ArrayList<BnBProvider>();
-	//private List<Customer> customers;
-	//private String name;
-	//private String location;
-	//private Date from;
-	//private Date to;
-	//private Customer[] customer;
-	//private BnBProvider[] bnBProvider;
 	
 	private List<String> output;
 	
