@@ -7,11 +7,7 @@ public class BnBProvider implements IPublisher {
 	private String providerName;
 
 	private Room room;
-	
-	//private List<Room> pubRoom = new ArrayList<Room>();
-
-	//private Room[] room;
-	
+		
 	private static Broker broke = new Broker();
 
 	public boolean publish(String providerName, String Description, Date availableFrom, Date availableDate) {
