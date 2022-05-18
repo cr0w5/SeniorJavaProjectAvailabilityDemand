@@ -5,9 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Broker {
-	
-	//private List<Customer> notifySub = new ArrayList<Customer>();
-	//private AvailabilityDemand availabilityDemand;
 
 	private static List<BnBProvider> providers = new ArrayList<BnBProvider>();
 
